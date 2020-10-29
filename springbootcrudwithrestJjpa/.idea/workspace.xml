@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="58931185-48ed-4e83-9e50-9949afa814d4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1iCbC9idEem9bOgaf3QxRh3xEnN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../springbootcrudwithrestspringdatajpa" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.luv2code.springboot.restdemo.entity" />
+      <recent name="com.luv2code.springboot.restdemo.dao" />
+      <recent name="com.luv2code.springboot.restdemo.springbootcrudwithrest.dao" />
+      <recent name="com.luv2code.springboot.restdemo.springbootcrudwithrest.entity" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\Spring practice\Spring_Exercise\springbootcrudwithrest\src\main\java\com\luv2code\springboot\restdemo\service" />
+      <recent name="G:\Spring practice\Spring_Exercise\springbootcrudwithrest\src\main\java\com\luv2code\springboot\restdemo\rest" />
+      <recent name="G:\Spring practice\Spring_Exercise\springbootcrudwithrest\src\main\java\com\luv2code\springboot\restdemo\dao" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="SpringbootcrudwithrestApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springbootcrudwithrest" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.luv2code.springboot.restdemo.springbootcrudwithrest.SpringbootcrudwithrestApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="58931185-48ed-4e83-9e50-9949afa814d4" name="Default Changelist" comment="" />
+      <created>1601414390859</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601414390859</updated>
+      <workItem from="1601414396158" duration="2908000" />
+      <workItem from="1601419894206" duration="892000" />
+      <workItem from="1601424521251" duration="1194000" />
+      <workItem from="1601459102640" duration="647000" />
+      <workItem from="1601460082904" duration="56000" />
+      <workItem from="1601460441791" duration="43000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="243" y="0" width="893" height="728" key="#SpringbootcrudwithrestApplication" timestamp="1601460136117">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="243" y="0" width="893" height="728" key="#SpringbootcrudwithrestApplication/0.0.1366.728@0.0.1366.728" timestamp="1601460136117" />
+    <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser" timestamp="1601416821915">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1601416821915" />
+    <state x="419" y="148" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1601460134925">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="419" y="148" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1601460134925" />
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1601416088391">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1601416088391" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1601460480891">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1601460480891" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1601420794622">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1601420794622" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1601420794622">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1601420794622" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1601420794622">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1601420794622" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1601420794622">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1601420794622" />
+    <state width="1323" height="179" key="GridCell.Tab.1.bottom" timestamp="1601420794623">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1601420794623" />
+    <state width="1323" height="179" key="GridCell.Tab.1.center" timestamp="1601420794623">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1601420794623" />
+    <state width="1323" height="179" key="GridCell.Tab.1.left" timestamp="1601420794622">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1601420794622" />
+    <state width="1323" height="179" key="GridCell.Tab.1.right" timestamp="1601420794623">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1601420794623" />
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1601460446846">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1601460446846" />
+  </component>
+</project>
